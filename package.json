@@ -1,5 +1,5 @@
 {
-  "name": "cid",
+  "name": "@4a/cid",
   "version": "0.1.0",
   "description": "unique-integer-id,数字id,常用于生成订单号,流水单号",
   "main": "index.js",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/gavinning/unique-integer-id/issues"
   },
-  "homepage": "https://github.com/gavinning/unique-integer-id#readme"
+  "homepage": "https://github.com/gavinning/unique-integer-id#readme",
+  "dependencies": {
+    "date-format": "^3.0.0"
+  }
 }
