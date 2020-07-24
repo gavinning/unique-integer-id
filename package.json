@@ -1,0 +1,26 @@
+{
+  "name": "cid",
+  "version": "0.1.0",
+  "description": "unique-integer-id,数字id,常用于生成订单号,流水单号",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/unique-integer-id.git"
+  },
+  "keywords": [
+    "unique-id",
+    "unique-integer-id",
+    "unique-int-id",
+    "unique-number-id",
+    "cid"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/unique-integer-id/issues"
+  },
+  "homepage": "https://github.com/gavinning/unique-integer-id#readme"
+}
